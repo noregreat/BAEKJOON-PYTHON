@@ -1,2 +1,6 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python 1065.py"
+=======
+run = "python 4673.py"
+>>>>>>> f133886a079d0cf23af1451db40471fcfc442d7c

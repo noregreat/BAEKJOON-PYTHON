@@ -14,3 +14,4 @@ for i in range(col):
 
 for row_ in ary1:
   print(*row_,sep=" ")
+  
